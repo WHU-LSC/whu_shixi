@@ -2,7 +2,7 @@
 '''
 Created on Wed Jan  8 21:15:13 2020
 
-@author: Administrator
+@author: LSC
 '''
 
 #爬虫的交互界面编程
